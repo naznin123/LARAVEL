@@ -1,3 +1,2 @@
-Coaching Management system
-This project is built by using  Laravel and SQL SERVER.
-
+Intelligence Tourist Guide
+This project is built by using nodejs and SQL SERVER.
